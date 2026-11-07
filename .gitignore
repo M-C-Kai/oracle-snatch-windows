@@ -1,0 +1,17 @@
+# 本地配置与密钥 —— 绝对不要提交
+config.env
+snatched.json
+snatch.log
+*.pem
+.oci/
+*.log
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# 系统
+.DS_Store
+Thumbs.db
